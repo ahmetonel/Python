@@ -37,7 +37,7 @@ def user_islem():                                             #kullanici islem f
         print("\n1. Kullanicilari listele.")
         print("2. Kullanici sifresini degistir.")
         print("3. Kullanici sil.")
-        print("4. Ana men�ye don.")
+        print("4. Ana menuye don.")
         
         s2 = input("Secim yapin: ")
 
