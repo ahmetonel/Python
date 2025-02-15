@@ -61,7 +61,7 @@ def user_islem():                                             #kullanici islem f
             user_remove()
         
         elif s2 == "4":
-            break                                             # Donguden cikarip ana men�ye dondurur.
+            break                                             # Donguden cikarip ana menuye dondurur.
         
         else:
             print("Gecersiz secim.")
